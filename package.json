@@ -42,6 +42,7 @@
     ]
   },
   "devDependencies": {
-    "babel-plugin-macros": "^3.0.1"
+    "babel-plugin-macros": "^3.0.1",
+    "prettier": "2.2.1"
   }
 }
